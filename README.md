@@ -12,6 +12,8 @@
 ## 技术栈
 - 前端：React、TypeScript、Ant Design、ECharts
 - 后端：FastAPI、LangChain、LangGraph、Chroma、MySQL
+## 数据大屏
+<img width="1683" height="860" alt="dashboard" src="https://github.com/user-attachments/assets/cc64e593-434e-4a1c-8bc6-9c59a911d970" />
 
 
 ## 快速开始
